@@ -10,7 +10,8 @@
 - 💼 Fundador de **CNAM Services**
 - 🎯 Especializado en **Arquitectura de Software** y **productos con IA**
 - 🌱 Siempre aprendiendo algo nuevo — actualmente explorando **AI Agents** y **SaaS**
-- 🎸 Me encanta tocar la guitarra en mi tiempo libre
+- ⚽ Me encanta el **fútbol** y soy deportista
+- 🏃 Apasionado del **running**
 - 💡 Creo que el código puede cambiar la vida de las personas
 
 ---
@@ -30,12 +31,18 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Genexus](https://img.shields.io/badge/GeneXus-EC1C24?style=for-the-badge&logoColor=white)
 
 **Bases de datos**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Mensajería & Streaming**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -77,5 +84,5 @@
 ---
 
 <p align="center">
-  <i>"La única manera de hacer un gran trabajo es amar lo que haces." — Steve Jobs</i>
+  <i>"Si puedes imaginarlo, puedes programarlo." — Alejandro Taboada</i>
 </p>
